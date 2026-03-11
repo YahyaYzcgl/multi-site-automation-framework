@@ -7,7 +7,7 @@ test.describe('Kidokit Menü Doğrulama', () => {
     });
 
     const menus = [
-        { name: 'Blog', url: '/blog' },
+        { name: 'Blog', url: '/blogg' },
         { name: 'Hakkımızda', url: '/hakkimizda' }
     ];
 
